@@ -1,9 +1,9 @@
 <?php
 
-namespace MasterHelper;
+namespace CodePunditz\MasterHelper;
 
-use MasterHelper\String;
-use MasterHelper\Date;
+use CodePunditz\MasterHelper\String;
+use CodePunditz\MasterHelper\Date;
 
 class Helper
 {

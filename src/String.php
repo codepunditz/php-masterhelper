@@ -1,6 +1,6 @@
 <?php
 
-namespace MasterHelper;
+namespace CodePunditz\MasterHelper;
 
 class String
 {
